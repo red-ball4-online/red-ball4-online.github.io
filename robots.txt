@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://red-ball4-online.github.io/sitemap.txt
